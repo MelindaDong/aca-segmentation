@@ -15,15 +15,14 @@ The method focuses on post-hoc logit alignment to improve model generalization a
 
 ## 📦 Code & Paper
 
-* Code: Coming soon
-* Paper: Coming soon
+Code will be released soon.
+
+Paper link will be added upon conference publication.
 
 ---
 
 ## 📌 Status
 
-Full scripts will be released upon paper publication.
+This repository is currently under active development.
+Full scripts will be released upon camera-ready version.
 
----
-
-## 📄 Citation
